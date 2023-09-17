@@ -33,6 +33,8 @@ The folders in this repository are composed of:
 
 ## Data
 
+* `df_extrato_contrato`: .csv file containing the complete contract dataset
+
 * `df_base.csv`: .csv file containing training data
 
 * `df_test.csv`: .csv file containing test data
